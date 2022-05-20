@@ -1,0 +1,13 @@
+.headerContainer{
+    display: flex;
+    background-color: #ed1d24;
+    height: 750px;
+    background-image: url("../../assets/Marvel_Logo.svg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ed1d24;
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
+    z-index: 123;
+
+ 
+}

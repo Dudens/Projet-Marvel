@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");  
+
+.HeroContainer{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    font-family: Bangers;
+    font-size: 50px;
+    gap: 40px;
+ 
+
+
+}
+
+.label{
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+  
+
+
